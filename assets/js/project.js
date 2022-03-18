@@ -6,7 +6,7 @@ const projectcards = document.querySelector(".projectcards");
 // Array of object for projects
 const projects = [
   {
-    title: "Quiz App",
+    title: "News Recommendation System",
     cardImage: "assets/images/project-page/quiz.jpg",
     description: "A quiz app built using basic react.",
     tagimg: "https://cdn.iconscout.com/icon/free/png-512/react-1-282599.png",
@@ -14,7 +14,7 @@ const projects = [
     Githublink: "",
   },
   {
-    title: "Chess Engine",
+    title: "Course Recommendation System",
     cardImage: "assets/images/project-page/chess.jpg",
     description: "A chess engine for a popular game dev engine.",
     tagimg: "https://image.flaticon.com/icons/png/512/643/643350.png",
@@ -22,7 +22,7 @@ const projects = [
     Githublink: "",
   },
   {
-    title: "Flappy Bird",
+    title: "Semantic Search Engine",
     cardImage: "assets/images/project-page/flappybird.png",
     description: "Flappy bird game built using React.js",
     tagimg: "https://cdn.iconscout.com/icon/free/png-512/react-1-282599.png",
@@ -30,7 +30,7 @@ const projects = [
     Githublink: "",
   },
   {
-    title: "Exercise Tracker",
+    title: "Customer Retention Analysis",
     cardImage: "assets/images/project-page/exercise.jpg",
     description: "Exercise tracker built using basic redux.",
     tagimg: "https://miro.medium.com/max/2800/0*U2DmhXYumRyXH6X1.png",
