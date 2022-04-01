@@ -89,11 +89,11 @@ const mentor = [
     title: "Smart India hackathon 2020",
     subtitle: "Mentor",
     image: "assets/images/experience-page/sih.jpg",
-    desp: "I would be responsible for guiding 100s of participants across the globe in their first steps towards Applied Data Science and building end-to-end machine learning projects.",
+    desp: "I would be responsible for guiding 10s of participants in their first steps towards Farmer Facilation Portal.",
   },
   {
     title: "Google Summer of Code",
-    subtitle: "Judge",
+    subtitle: "Student",
     image: "assets/images/experience-page/gsoc_1.png",
     desp: "ULHacks is a 36 hour long hackathon organized with an aim to enable students to create a project which empowers learning.",
   },
