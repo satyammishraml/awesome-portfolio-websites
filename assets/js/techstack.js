@@ -4,24 +4,46 @@ AOS.init();
 
 const techStackCards = document.querySelector(".techstack-box");
 const techStack = [
+
   {
-    langImage: "assets/images/techstack-page/python.png",
-    langName: "Python",
-    langDesc: "<li>Python is an interpreted high-level general-purpose programming language</li>",
+    langImage: "assets/images/techstack-page/t.png",
+    langName: "Tensorflow"
   },
-  {
+
+    {
+    langImage: "assets/images/techstack-page/keras.png",
+    langName: "Keras",
+  },
+    {
+    langImage: "assets/images/techstack-page/pandas.png",
+    langName: "Pandas",
+  },
+    {
+    langImage: "assets/images/techstack-page/sklearn.png",
+    langName: "Scikit-Learn",
+  },
+
+    {
+    langImage: "assets/images/techstack-page/seaborn.png",
+    langName: "Seaborn",
+  },
+    {
+    langImage: "assets/images/techstack-page/django.png",
+    langName: "django",
+  },
+      {
+    langImage: "assets/images/techstack-page/flask.png",
+    langName: "Flask",
+  },
+      {
+    langImage: "assets/images/techstack-page/fastapi.png",
+    langName: "FAST API",
+  },
+    {
     langImage: "assets/images/techstack-page/git.png",
-    langName: "Git",
-    langDesc: "<li>Git is software for tracking changes in any set of files, usually used for coordinating work among programmers collaboratively developing source code during software development.</li>",
+    langName: "Git and Bash",
   },
 
-
-
-  {
-    langImage: "assets/images/techstack-page/cpp.png",
-    langName: "C++",
-    langDesc: "<li>C++ is a general-purpose programming language created by Bjarne Stroustrup as an extension of the C programming language, or C with Classes</li>",
-  },
 
 ];
 
